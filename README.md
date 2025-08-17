@@ -12,7 +12,7 @@
 ---
 
 🛠 **Tech Stack**
-- **Languages:** JavaScript, Python, C++
+- **Languages:** JAVA, C++, JavaScript, Python
 - **Frontend:** React.js, HTML, CSS, Tailwind
 - **Backend:** Node.js, Express
 - **Database:** MongoDB, MySQL
