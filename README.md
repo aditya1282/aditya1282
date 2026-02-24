@@ -12,10 +12,9 @@
 ---
 
 🛠 **Tech Stack**
-- **Languages:** JAVA, C++, JavaScript, Python
+- **Languages:** JAVA, JavaScript
 - **Frontend:** React.js, HTML, CSS, Tailwind
-- **Backend:** Node.js, Express
-- **Database:** MongoDB, MySQL
+- **Database:**  MySQL
 - **Tools:** Git, GitHub, VS Code
 
 ---
