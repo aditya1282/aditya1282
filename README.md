@@ -1,35 +1,130 @@
-# 👋 Hi, I'm Aditya Sharma
+<img
+  align="right"
+  alt="Coding"
+  width="400"
+  src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif"
+/>
 
-🚀 **About Me**
-🎓 Computer Science student at **JECRC University**, graduating in 2026.  
-💻 Passionate about **software development** and **web technologies**, with a strong interest in building impactful and user-friendly applications.  
-📚 Committed to **continuous learning** and improving my technical skills through hands-on practice.  
-🚀 Actively seeking opportunities for **internships** and **projects** to apply my knowledge, solve real-world problems, and grow in the tech industry.  
-🌱 Currently exploring advanced concepts in **DSA**, **full-stack development**, and emerging tech trends.  
-📄 &nbsp;Please have a look at my [Résumé]([https://onedrive.live.com/?authkey=%21AKntgUe4LOwU4xA&id=2C11D5C642133C04%213605&cid=2C11D5C642133C04&parId=root&parQt=sharedby&o=OneUp](https://drive.google.com/file/d/1msnGNvFo9qMlA7t3yibzuJo8cpX7CLHU/view?usp=sharing)) for more details about me. I'm open to feedback and suggestions!
+# 👋 Hey, I'm Aditya Sharma
 
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
+### 💻 Software Developer | Frontend Engineer | API Enthusiast
+
+🚀 I build modern, scalable and user-focused web applications.
+
+🎓 Computer Science Student @ **JECRC University**  
+🌱 Exploring **Full-Stack Development, DSA & System Design**  
+🔌 Interested in **API Design, API Integration & Backend Systems**  
+🗄️ Working with **SQL & NoSQL Databases**  
+🧠 Passionate about **Problem Solving, CN & Operating Systems**
+
+<br clear="right"/>
 ---
 
-🛠 **Tech Stack**
-- **Languages:** JAVA, JavaScript
-- **Frontend:** React.js, HTML, CSS, Tailwind
-- **Database:**  MySQL
-- **Tools:** Git, GitHub, VS Code
+## 🧑‍💻 About Me
+
+- 🔭 Building **full-stack web applications & API-driven projects**
+- 🎨 Passionate about creating **modern, responsive and interactive UIs**
+- 🔌 Experienced with **REST API design & third-party API integration**
+- 🗄️ Working with **SQL & NoSQL databases**
+- 🧠 Improving my **DSA & problem-solving skills**
+- 🌐 Exploring **backend architecture, authentication & system design**
+- 🔧 Comfortable with **Git, GitHub & collaborative development**
+- 📈 Interested in combining **technology + product thinking + digital marketing**
+- 💼 Open to **internships, freelance work & exciting collaborations**
 
 ---
 
-📊 **GitHub Stats**
-![Aditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=AdityaSharma&show_icons=true&theme=radical)
+# 🚀 Tech Arsenal
+
+### 💻 Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=java,js,ts,html,css" />
+</p>
+
+### 🎨 Frontend Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,redux,vite" />
+</p>
+
+- React.js
+- Next.js
+- JavaScript
+- TypeScript
+- HTML5
+- CSS3
+- Tailwind CSS
+- Responsive Design
+- REST API Integration
+- State Management
+- Component Architecture
+- Modern UI/UX
+
+### 🔌 Backend & API Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
+
+- REST API Development
+- API Architecture
+- API Integration
+- Authentication & Authorization
+- CRUD APIs
+- JSON
+- HTTP / HTTPS
+- API Testing
+- Third-party API Integration
+- Error Handling
+- Backend Architecture
+
+### 🗄️ Databases
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,postgresql" />
+</p>
+
+- MySQL
+- MongoDB
+- PostgreSQL
+- Database Design
+- SQL Queries
+- Relationships & Joins
+- CRUD Operations
+- Data Modeling
+- Indexing Basics
+
+### 🛠️ Developer Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm,vercel" />
+</p>
+
+- Git
+- GitHub
+- GitHub Actions
+- VS Code
+- Postman
+- npm
+- Vercel
+- Chrome DevTools
 
 ---
 
-🏆 **Trophies**
-![trophy](https://github-profile-trophy.vercel.app/?username=AdityaSharma&theme=onedark)
+### GitHub Achievements
+<div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=AdityaSharma&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10" /> </div>
 
----
 
-📫 **Connect with Me**
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?logo=vercel&logoColor=white)](https://yourportfolio.com)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:your.email@example.com)
+### 🐍 Watch My Contributions Get Eaten
+
+<div align="center">
+
+<img
+  src="https://raw.githubusercontent.com/AdityaSharma/AdityaSharma/output/github-contribution-grid-snake.svg"
+  alt="Snake animation"
+/>
+
+</div>
+
+<p align="center"> <a href="https://www.linkedin.com/"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="mailto:your.email@example.com"> <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/> </a> <a href="https://github.com/AdityaSharma"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/> </a> </p>
