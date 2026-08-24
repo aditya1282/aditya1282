@@ -48,18 +48,6 @@
 <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,redux,vite" />
 </p>
 
-- React.js
-- Next.js
-- JavaScript
-- TypeScript
-- HTML5
-- CSS3
-- Tailwind CSS
-- Responsive Design
-- REST API Integration
-- State Management
-- Component Architecture
-- Modern UI/UX
 
 ### 🔌 Backend & API Development
 
@@ -67,17 +55,6 @@
 <img src="https://skillicons.dev/icons?i=nodejs,express" />
 </p>
 
-- REST API Development
-- API Architecture
-- API Integration
-- Authentication & Authorization
-- CRUD APIs
-- JSON
-- HTTP / HTTPS
-- API Testing
-- Third-party API Integration
-- Error Handling
-- Backend Architecture
 
 ### 🗄️ Databases
 
@@ -85,30 +62,12 @@
 <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgresql" />
 </p>
 
-- MySQL
-- MongoDB
-- PostgreSQL
-- Database Design
-- SQL Queries
-- Relationships & Joins
-- CRUD Operations
-- Data Modeling
-- Indexing Basics
 
 ### 🛠️ Developer Tools
 
 <p>
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm,vercel" />
 </p>
-
-- Git
-- GitHub
-- GitHub Actions
-- VS Code
-- Postman
-- npm
-- Vercel
-- Chrome DevTools
 
 ---
 
