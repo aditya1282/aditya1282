@@ -75,14 +75,28 @@
 <div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=AdityaSharma&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10" /> </div>
 
 
-### 🐍 Watch My Contributions Get Eaten
-
 <div align="center">
 
-<img
-  src="https://raw.githubusercontent.com/AdityaSharma/AdityaSharma/output/github-contribution-grid-snake.svg"
-  alt="Snake animation"
-/>
+## 🐍 My Contribution Snake
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/aditya1282/aditya1282/output/github-contribution-grid-snake-dark.svg"
+  />
+
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/aditya1282/aditya1282/output/github-contribution-grid-snake.svg"
+  />
+
+  <img
+    alt="GitHub Contribution Snake"
+    src="https://raw.githubusercontent.com/aditya1282/aditya1282/output/github-contribution-grid-snake.svg"
+  />
+</picture>
+
+</div>
 
 </div>
 
